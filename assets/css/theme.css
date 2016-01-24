@@ -273,7 +273,7 @@ h6 {
 .card {
   background: #d8d5ce;
   border: 1px solid #e6e6e6;
-  border-radius: 0px;
+  border-radius: 3px;
   min-height: 300px;
   padding: 10px;
 }
